@@ -8,13 +8,7 @@ import javax.swing.JMenu;
 import javax.swing.JMenuItem;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
-import javax.swing.ImageIcon;
-import javax.swing.JOptionPane;
-import javax.swing.JDialog;
-import javax.swing.JTextField;
-import java.beans.*; //property change stuff
-import java.awt.*;
-import java.awt.event.*;
+
 
 
 public class BlackjackUI extends JPanel {
